@@ -1,4 +1,3 @@
-# maki
 <div align="center">
    <img width="270" src="https://i.imgur.com/yGdd3PO.png" alt="logo"></br><h2>Hensuki</h2>An easy way to retrieve any doujinshi and request download from many supported sites.<br>
 Hensuki is need no API related, zero dependencies and fully pipelines regex build</br>
@@ -55,8 +54,7 @@ done
 - [ ] hentainexus 
 - [ ] nhensuki
 - [ ] pururin
-![](https://i.imgur.com/Vx6dzU5.png)
-![](https://i.imgur.com/LirgRJc.png)
+![](https://i.imgur.com/p0ThnzU.png)
 ## Response
 before init, should run [./nanjo](nanjo) == works as a request-response protocol between a client and vendor server.
 this case just check your request was blocked by your provider or not.
